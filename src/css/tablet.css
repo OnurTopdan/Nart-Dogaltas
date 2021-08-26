@@ -1,0 +1,32 @@
+#navbar {
+    color: #fff;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 0 0.75rem;
+    height: 80px;
+}
+.itemcon{
+    padding: 1rem;
+    padding-left: 2rem;
+    display: inline-block;
+}
+
+.card {
+  display: inline-block;
+  width: 12rem;
+  height: 12rem;
+  box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.4);
+  border-radius: 0.5rem;
+  position: relative;
+}
+.card-info h3 {
+    font-family: "Muli", serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #ffffff;
+    opacity: 0.3;
+    margin-bottom: 0.6rem;
+  }
+
+  

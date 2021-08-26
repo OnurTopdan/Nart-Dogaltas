@@ -1,0 +1,22 @@
+
+.cont1 h3{
+    position: absolute;
+    font-family: "Muli", serif;
+    bottom: 0;
+    padding: 2rem;
+    text-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.4);
+    margin-left: 50px !important;
+    margin-bottom: 15px;
+}
+
+.imgcont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+    width: 100%;
+    
+    
+}
+
